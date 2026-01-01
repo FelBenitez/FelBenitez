@@ -21,7 +21,7 @@ I am a technical builder focused on **Systems Engineering** and **Applied Machin
 ### Beyond the Code
 
 * **Leadership:** Served as **Concertmaster** of the UT University Orchestra for four concert cycles, leading a 90-piece ensemble through high-pressure performance cycles.
-* **Digital Growth: Founded and scaled an organic classical media brand to **100,000+ followers and 2M+ monthly impressions**, at one point becoming the #1 ranked page in its niche globally.
+* **Digital Growth**: Founded and scaled an organic classical media brand to **100,000+ followers and 2M+ monthly impressions**, at one point becoming the #1 ranked page in its niche globally.
 
 ---
 
