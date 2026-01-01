@@ -1,6 +1,6 @@
 # Hi, I'm Felipe 👋
 
-**Computer Science & Data Science @ UT Austin | Summer 2026 SWE & AI Intern**
+**Computer Science & Data Science @ UT Austin | Seeking Summer 2026 SWE & AI Intern**
 
 I am a technical builder focused on **Systems Engineering** and **Applied Machine Learning**. I specialize in architecting high-performance software that bridges the gap between complex data and real-world user needs.
 
