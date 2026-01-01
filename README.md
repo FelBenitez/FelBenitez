@@ -33,5 +33,3 @@ I am a technical builder focused on **Systems Engineering** and **Applied Machin
 <a href="mailto:febenitez953@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
-📍 **Austin, TX** (Hook 'em! 🤘)
