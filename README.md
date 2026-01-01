@@ -30,9 +30,3 @@ I am a technical builder focused on **Systems Engineering** and **Applied Machin
 * **LinkedIn:** [linkedin.com/in/benitezfelipe](www.linkedin.com/in/benitezfelipe)
 * **Email:** [febenitez953@gmail.com](mailto:febenitez953@gmail.com)
 * **Location:** Austin, TX (Hook 'em! 🤘)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelBenitez&show_icons=true&theme=tokyonight" alt="Felipe's GitHub Stats" />
-</p>
