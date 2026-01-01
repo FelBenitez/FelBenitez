@@ -1,4 +1,4 @@
-# Hi, I'm Felipe <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
+# Hi, I'm Felipe 👋
 
 **Computer Science & Data Science @ UT Austin | Summer 2026 SWE & AI Intern**
 
