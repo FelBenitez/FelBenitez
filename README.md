@@ -1,4 +1,4 @@
-# Hi, I'm Felipe 👋
+# Hi, I'm Felipe <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
 **Computer Science & Data Science @ UT Austin | Summer 2026 SWE & AI Intern**
 
@@ -27,6 +27,6 @@ I am a technical builder focused on **Systems Engineering** and **Applied Machin
 
 ### Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/benitezfelipe](www.linkedin.com/in/benitezfelipe)
+* **LinkedIn:** [linkedin.com/in/benitezfelipe](https://www.linkedin.com/in/benitezfelipe)
 * **Email:** [febenitez953@gmail.com](mailto:febenitez953@gmail.com)
 * **Location:** Austin, TX (Hook 'em! 🤘)
