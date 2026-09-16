@@ -4,7 +4,17 @@
 
 I am a technical builder interested in **Systems Engineering**, **Cloud Infrastructure**, and **Applied Machine Learning**, with a focus on building software that solves real-world problems.
 
-I recently completed a **Software Engineering internship at Q2**, where I built production C#/.NET systems and developed a configuration-driven platform that replaced ~300 hardcoded file-format implementations, reducing new format setup from weeks to minutes. I received a **full-time Software Engineer return offer** following the internship.
+---
+
+### Experience
+
+<a href="https://www.q2.com/">
+  <img src="https://cdn.cookielaw.org/logos/4fdff0fc-6605-4fea-8e5c-0113c2ea503f/6b650b8a-1d21-4daf-8e4e-905ae0b96a31/154800e9-3b0c-4c9e-838a-e34e7df61ffb/Q2Logo.png" width="80" alt="Q2">
+</a>
+
+**Software Engineering Intern — Q2**
+
+Built and shipped production C#/.NET systems and developed a configuration-driven platform that replaced ~300 hardcoded file-format implementations, reducing new format setup from weeks to minutes. Received a **full-time Software Engineer return offer** following the internship.
 
 ---
 
