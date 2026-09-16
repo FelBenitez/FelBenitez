@@ -1,8 +1,10 @@
 # Hi, I'm Felipe 👋
 
-**Computer Science & Data Science @ UT Austin | Seeking Summer 2026 SWE & AI Intern**
+**Computer Science & Data Science @ UT Austin | Software Engineer**
 
-I am a technical builder focused on **Systems Engineering** and **Applied Machine Learning**. I specialize in architecting high-performance software that bridges the gap between complex data and real-world user needs.
+I am a technical builder interested in **Systems Engineering**, **Cloud Infrastructure**, and **Applied Machine Learning**, with a focus on building software that solves real-world problems.
+
+I recently completed a **Software Engineering internship at Q2**, where I built production C#/.NET systems and developed a configuration-driven platform that replaced ~300 hardcoded file-format implementations, reducing new format setup from weeks to minutes. I received a **full-time Software Engineer return offer** following the internship.
 
 ---
 
@@ -21,7 +23,7 @@ I am a technical builder focused on **Systems Engineering** and **Applied Machin
 ### Beyond the Code
 
 * **Leadership:** Served as **Concertmaster** of the UT University Orchestra for four concert cycles, leading a 90-piece ensemble through high-pressure performance cycles.
-* **Digital Growth**: Founded and scaled an organic classical media brand to **100,000+ followers and 2M+ monthly impressions**, at one point becoming the #1 ranked page in its niche globally.
+* **Digital Growth**: Founded and scaled an organic classical media brand to **100,000+ followers and millions of monthly impressions**, at one point becoming the #1 ranked page in its niche globally.
 
 ---
 
